@@ -1,0 +1,121 @@
+ [
+   {
+     "errorCode": "U001",
+     "errorMessage": "Error Occurred while executing the service"
+   },
+   {
+     "errorCode": "U002",
+     "errorMessage": "Error occurred while executing Services method create"
+   },
+   {
+     "errorCode": "U012",
+     "errorMessage": "Error in controller"
+   },
+   {
+     "errorCode": "U003",
+     "errorMessage": "Error occurred while executing Services method getById"
+   },
+   {
+     "errorCode": "U004",
+     "errorMessage": "Error occurred while executing Services method getAll"
+   },
+   {
+     "errorCode": "U005",
+     "errorMessage": "Error occurred while executing Services method update"
+	 },
+	 {
+		 "errorCode": "U006",
+		 "errorMessage": "Error occurred while executing Services method delete"
+	 },
+	 {
+		 "errorCode": "U007",
+		 "errorMessage": "Error occurred while executing Services method getByProfileId"
+	 },
+	 {
+		 "errorCode": "U008",
+		 "errorMessage": "Error occurred while executing Services method getByPriority"
+	 },
+	 {
+		 "errorCode": "U009",
+		 "errorMessage": "Error occurred while executing Services method getByPriority"
+	 },
+	 {
+		 "errorCode": "U010",
+		 "errorMessage": "Error \"address not found\" while executing Services method update "
+	 },
+	 {
+		 "errorCode": "U011",
+		 "errorMessage": "Error \"address not found\" while executing Services method update "
+	 },
+	 {
+		 "errorCode": "U0001",
+		 "errorMessage": "token not found"
+	 },
+	 {
+		 "errorCode": "U0002",
+		 "errorMessage": "email already confirmed"
+	 },
+	 {
+		 "errorCode": "U0003",
+		 "errorMessage": "token is expired"
+	 },{
+		 "errorCode": "U0004",
+		 "errorMessage": "Please enter correct old password !!"
+	 },{
+		 "errorCode": "U0005",
+		 "errorMessage": "database error !!"
+	 },{
+		 "errorCode": "U0006",
+		 "errorMessage": "database error !!"
+	 },{
+		 "errorCode": "U0007",
+		 "errorMessage": "User does not exist !!"
+	 },
+	 {
+		 "errorCode": "L001",
+		 "errorMessage": "Please check your cridentials"
+	 },
+	 {
+		 "errorCode": "L002",
+		 "errorMessage": "database error occur"
+	 },
+	 {
+		 "errorCode": "L003",
+		 "errorMessage": "Please enter correct password !!"
+	 },{
+		 "errorCode": "L004",
+		 "errorMessage": "Please enter correct user Id !!"
+	 },{
+		 "errorCode": "L005",
+		 "errorMessage": "Please enter correct user Id and password !!"
+	 },{
+		 "errorCode": "OTP01",
+		 "errorMessage": "Email id does not exist Please register first !!"
+	 },{
+		 "errorCode": "OTP02",
+		 "errorMessage": "Please enter correct email id!!"
+	 },{
+		 "errorCode": "OTP03",
+		 "errorMessage": "error occur in otp service!!"
+	 },{
+		 "errorCode": "OTP04",
+		 "errorMessage": "error in otp adapter!!"
+	 },{
+		 "errorCode": "OTP05",
+		 "errorMessage": "your id blocked for 24hrs."
+	 },{
+		 "errorCode": "OTP06",
+		 "errorMessage": "Invalid OTP!"
+	 },{
+		 "errorCode": "OTP07",
+		 "errorMessage": "OTP already confirmed!"
+	 },{
+		 "errorCode": "OTP08",
+		 "errorMessage": "OTP expired, please resend otp!"
+	 },{
+		 "errorCode": "OTP09",
+		 "errorMessage": "error in otp services"
+	 }
+
+	
+]

@@ -1,0 +1,4 @@
+com\role_service\service\ServiceI.class
+com\role_service\server\UserRegistrationLoginApplication.class
+com\role_service\service\RoleServiceImpl.class
+com\role_service\controller\RoleController.class

@@ -1,0 +1,20 @@
+
+`	java:S112b"FDefine and throw a dedicated exception instead of using a generic one.(Ÿ†ðûøÿÿÿÿ
+`	java:S112h"FDefine and throw a dedicated exception instead of using a generic one.(ß–š¤þÿÿÿÿ
+`	java:S112o"FDefine and throw a dedicated exception instead of using a generic one.(º¹¢¨øÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(¸²Â¿
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(æ´™Œ
+c
+java:S44885"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ø©©‚úÿÿÿÿ
+V	java:S125A"<This block of commented-out lines of code should be removed.(´—Ñúúÿÿÿÿ
+‡
+java:S1130b"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ÿ†ðûøÿÿÿÿ
+Q	java:S125I"<This block of commented-out lines of code should be removed.(ç³îÎ
+‡
+java:S1130h"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ß–š¤þÿÿÿÿ
+‡
+java:S1130o"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(º¹¢¨øÿÿÿÿ
+o
+java:S2293D"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ã”ÄÎ
+v
+java:S1488D"`Immediately return this expression instead of assigning it to the temporary variable "response".(Ã”ÄÎ

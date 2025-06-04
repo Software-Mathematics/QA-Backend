@@ -1,0 +1,4 @@
+com\usermanagement\department\service\DepartmentServiceApplication.class
+com\usermanagement\department\service\service\DepartmentServiceImpl.class
+com\usermanagement\department\service\controller\DepartmentController.class
+com\usermanagement\department\service\service\ServiceI.class

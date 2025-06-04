@@ -1,0 +1,12 @@
+
+9
+java:S2119="Save and re-use this "Random".(šŸ«íøÿÿÿÿ
+S	java:S106E"9Replace this use of System.out or System.err by a logger.(³íã›ÿÿÿÿÿ
+7
+java:S1643C"Use a StringBuilder instead.(ÁæôÈøÿÿÿÿ
+
+java:S1488"iImmediately return this expression instead of assigning it to the temporary variable "dateTimeFormatted".(üåğ·
+E
+java:S5411)"*Use the primitive boolean expression here.(©Ü Ûÿÿÿÿÿ
+@
+java:S5411-"*Use the primitive boolean expression here.(Úô§Ë

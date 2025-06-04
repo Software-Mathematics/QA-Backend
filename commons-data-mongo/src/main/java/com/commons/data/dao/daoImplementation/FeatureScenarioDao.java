@@ -1,0 +1,9 @@
+package com.commons.data.dao.daoImplementation;
+
+import com.commons.data.entity.FeatureScenario;
+import org.springframework.data.mongodb.repository.MongoRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface FeatureScenarioDao extends MongoRepository<FeatureScenario, Long> {
+}

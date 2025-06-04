@@ -1,0 +1,4 @@
+com\usermanagement\designation\service\service\ServiceI.class
+com\usermanagement\designation\service\controller\DesignationController.class
+com\usermanagement\designation\service\DesignationServiceApplication.class
+com\usermanagement\designation\service\service\DesignationServiceImpl.class

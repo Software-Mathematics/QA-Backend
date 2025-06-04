@@ -1,0 +1,27 @@
+
+„
+Tsrc/test/java/com/dailycodebuffer/filemngt/SpringBootFileUploadApplicationTests.java,4\0\40efee3fd396bda745b49ea3f7c416805d219747
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+e
+5src/main/java/com/dailycodebuffer/filemngt/model.java,8\6\8615f9d19e1500584b77579978eb2c8ae5bf34e1
+
+Osrc/main/java/com/dailycodebuffer/filemngt/SpringBootFileUploadApplication.java,f\1\f164fd90af7d46c9d8940fce3ce9de230b9576d5
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+r
+Bsrc/main/java/com/dailycodebuffer/filemngt/util/AutoGenerator.java,c\e\ce12836de8ee6558fe212eb06652a854d43aebd1
+i
+9src/main/java/com/dailycodebuffer/filemngt/util/Util.java,2\f\2f293278836b01d4d7e03a7293a3f57d4e6e1b08
+
+Osrc/main/java/com/dailycodebuffer/filemngt/controller/AttachmentController.java,0\a\0acfc0113b56fb0becd56113fcd12046daa39e51
+y
+Isrc/main/java/com/dailycodebuffer/filemngt/service/AttachmentService.java,5\4\5484b240e35b407b271e23f94476f6d03dc53126
+p
+@src/main/java/com/dailycodebuffer/filemngt/dto/ResponseData.java,9\1\9153815e7ea148e6f6594c43107c38f869c8b595
+
+Osrc/main/java/com/dailycodebuffer/filemngt/repository/AttachmentRepository.java,9\7\9753d9f5eb39a35b6b5def96687899144b6d5e86
+q
+Asrc/main/java/com/dailycodebuffer/filemngt/entity/Attachment.java,0\7\073bafd09e33eb5d8cec8e480ad17796e36b02e3
+}
+Msrc/main/java/com/dailycodebuffer/filemngt/service/AttachmentServiceImpl.java,f\a\fa9d64b464f5250fb95d775e45a55d331fa99cae

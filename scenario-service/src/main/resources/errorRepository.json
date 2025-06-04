@@ -1,0 +1,51 @@
+ [
+   {
+     "errorCode": "K001",
+     "errorMessage": "Data not found !!"
+   },
+	 {
+	 "errorCode": "K002",
+	 "errorMessage": "Error Occurred while executing the ProfileEntityController method !!"
+ 	},
+	 {
+	 "errorCode": "K003",
+	 "errorMessage": "The Problem of redundancy in Database !!"
+ 	},
+	 {
+	 "errorCode": "K004",
+	 "errorMessage": "Data is already exist with given 'profileId' !!"
+ 	},{
+	 "errorCode": "K005",
+	 "errorMessage": "Id is mandatory !!"
+ },{
+	 "errorCode": "K006",
+	 "errorMessage": "Incorrect credentials entered !!"
+ },{
+	 "errorCode": "K007",
+	 "errorMessage": "Incorrect Password !!"
+ },{
+	 "errorCode": "K008",
+	 "errorMessage": "User Already Registered with same Email id or Mobile number !!"
+ },{
+	 "errorCode": "K009",
+	 "errorMessage": "Resource code cannot be null, please send complete Request !!"
+ },{
+	 "errorCode": "K010",
+	 "errorMessage": "Username, ResourceCode and password must be pass !!"
+ },{
+	 "errorCode": "K011",
+	 "errorMessage": "Username is not Registered, Please Register first !!"
+ },{
+	 "errorCode": "K012",
+	 "errorMessage": "You are passing wrong Resource code !!"
+ },{
+	 "errorCode": "K013",
+	 "errorMessage": "User is not active now, Please verify your account first !!"
+ },{
+	 "errorCode": "K014",
+	 "errorMessage": "Username, ResourceCode, oldPassword and newPassword must be pass !!"
+ },{
+	 "errorCode": "K015",
+	 "errorMessage": "Something went wrong !!"
+ }
+ ]

@@ -1,0 +1,75 @@
+config:
+  multitenant:
+    mongo:
+      properties:
+        - tenant: default
+          enabled: true
+          properties:
+            uri: mongodb://178.18.255.221:32021/?directConnection=true/jaina
+            database: jaina
+        - tenant: JAT20240418
+          enabled: true
+          properties:
+            uri: mongodb://178.18.255.221:32021/?directConnection=true/jaina
+            database: jaina
+
+
+#config:
+#  multitenant:
+#    mongo:
+#      properties:
+#        - tenant: ${DEFAULT_TENANT}
+#          enabled: true
+#          properties:
+#            uri: ${DEFAULT_TENANT_URI}
+#            database: ${DEFAULT_TENANT_DB}
+#        - tenant: ${DAYCO_TENANT}
+#          enabled: true
+#          properties:
+#            uri: ${DAYCO_TENANT_URI}
+#            database: ${DAYCO_TENANT_DB}
+#        - tenant: ${MEDHARVA_TENANT}
+#          enabled: true
+#          properties:
+#            uri: ${MEDHARVA_TENANT_URI}
+#            database: ${MEDHARVA_TENANT_DB}
+#        - tenant: ${MMU_TENANT}
+#          enabled: true
+#          properties:
+#            uri: ${MMU_TENANT_URI}
+#            database: ${MMU_TENANT_DB}
+#        - tenant: ${INVESTMENT_TENANT}
+#          enabled: true
+#          properties:
+#            uri: ${INVESTMENT_TENANT_URI}
+#            database: ${INVESTMENT_TENANT_DB}
+#        - tenant: ${JAINA_TENANT}
+#          enabled: true
+#          properties:
+#            uri: ${JAINA_TENANT_URI}
+#            database: ${JAINA_TENANT_DB}
+#        - tenant: ${TENANT_1}
+#          enabled: true
+#          properties:
+#            uri: ${TENANT_1_URI}
+#            database: ${TENANT_1_DB}
+#        - tenant: ${TENANT_2}
+#          enabled: true
+#          properties:
+#            uri: ${TENANT_2_URI}
+#            database: ${TENANT_2_DB}
+#        - tenant: ${TENANT_3}
+#          enabled: true
+#          properties:
+#            uri: ${TENANT_3_URI}
+#            database: ${TENANT_3_DB}
+#        - tenant: ${TENANT_4}
+#          enabled: true
+#          properties:
+#            uri: ${TENANT_4_URI}
+#            database: ${TENANT_4_DB}
+#        - tenant: ${TENANT_5}
+#          enabled: true
+#          properties:
+#            uri: ${TENANT_5_URI}
+#            database: ${TENANT_5_DB}

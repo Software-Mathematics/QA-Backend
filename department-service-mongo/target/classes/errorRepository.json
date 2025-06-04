@@ -1,0 +1,21 @@
+ [
+   {
+     "errorCode": "K001",
+     "errorMessage": "Data not found !!"
+   },
+	 {
+	 "errorCode": "K002",
+	 "errorMessage": "Error Occurred while executing the DepartmentController method !!"
+ 	},
+	 {
+	 "errorCode": "K003",
+	 "errorMessage": "The Problem of redundancy in Database !!"
+ 	},
+	 {
+	 "errorCode": "K004",
+	 "errorMessage": "Data is already exist with given 'profileId' !!"
+ 	},{
+	 "errorCode": "K005",
+	 "errorMessage": "Id is mandatory !!"
+ }
+ ]
