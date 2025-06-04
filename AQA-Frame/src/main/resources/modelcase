@@ -1,0 +1,207 @@
+//package KafkaAPI.KafkaModel;
+//
+//
+//import com.fasterxml.jackson.annotation.JsonInclude;
+//import com.fasterxml.jackson.annotation.JsonProperty;
+//import lombok.AllArgsConstructor;
+//import lombok.Data;
+//import lombok.NoArgsConstructor;
+//
+//import java.util.List;
+//import java.util.Map;
+//@Data
+//@AllArgsConstructor
+//@NoArgsConstructor
+//@JsonInclude(JsonInclude.Include.NON_NULL)
+//
+//public class Model {
+//
+//    @JsonProperty("data_list")
+//    private List<DataListItem> dataList;
+//
+//    public List<DataListItem> getDataList() {
+//        return dataList;
+//    }
+//
+//    public void setDataList(List<DataListItem> dataList) {
+//        this.dataList = dataList;
+//    }
+//
+//    @Override
+//    public String toString() {
+//        return "KafkaModel{" +
+//                "dataList=" + dataList +
+//                '}';
+//    }
+//
+//    @Data
+//    @AllArgsConstructor
+//    @NoArgsConstructor
+//    public static class DataListItem {
+//        @JsonProperty("base_url")
+//        private String baseUrl;
+//
+//        @JsonProperty("endpoint")
+//        private String endpoint;
+//
+//        @JsonProperty("mapping_type")
+//        private String mappingType;
+//
+//        @JsonProperty("header")
+//        private Map<String, String> header;
+//
+//        @JsonProperty("scenario")
+//        private Scenario scenario;
+//
+//        public String getBaseUrl() {
+//            return baseUrl;
+//        }
+//
+//        public void setBaseUrl(String baseUrl) {
+//            this.baseUrl = baseUrl;
+//        }
+//
+//        public String getEndpoint() {
+//            return endpoint;
+//        }
+//
+//        public void setEndpoint(String endpoint) {
+//            this.endpoint = endpoint;
+//        }
+//
+//        public String getMappingType() {
+//            return mappingType;
+//        }
+//
+//        public void setMappingType(String mappingType) {
+//            this.mappingType = mappingType;
+//        }
+//
+//        public Map<String, String> getHeader() {
+//            return header;
+//        }
+//
+//        public void setHeader(Map<String, String> header) {
+//            this.header = header;
+//        }
+//
+//        public Scenario getScenario() {
+//            return scenario;
+//        }
+//
+//        public void setScenario(Scenario scenario) {
+//            this.scenario = scenario;
+//        }
+//
+//        @Override
+//        public String toString() {
+//            return "DataListItem{" +
+//                    "baseUrl='" + baseUrl + '\'' +
+//                    ", endpoint='" + endpoint + '\'' +
+//                    ", mappingType='" + mappingType + '\'' +
+//                    ", header=" + header +
+//                    ", scenario=" + scenario +
+//                    '}';
+//        }
+//
+//    }
+//
+//    @Data
+//    @AllArgsConstructor
+//    @NoArgsConstructor
+//    public static class Scenario {
+//        @JsonProperty("name")
+//        private String name;
+//
+//        @JsonProperty("description")
+//        private String description;
+//
+//        @JsonProperty("datasets")
+//        private List<Dataset> datasets;
+//
+//        public String getName() {
+//            return name;
+//        }
+//
+//        public void setName(String name) {
+//            this.name = name;
+//        }
+//
+//        public String getDescription() {
+//            return description;
+//        }
+//
+//        public void setDescription(String description) {
+//            this.description = description;
+//        }
+//
+//        public List<Dataset> getDatasets() {
+//            return datasets;
+//        }
+//
+//        public void setDatasets(List<Dataset> datasets) {
+//            this.datasets = datasets;
+//        }
+//
+//        @Override
+//        public String toString() {
+//            return "Scenario{" +
+//                    "name='" + name + '\'' +
+//                    ", description='" + description + '\'' +
+//                    ", datasets=" + datasets +
+//                    '}';
+//        }
+//
+//
+//    }
+//
+//    @Data
+//    @AllArgsConstructor
+//    @NoArgsConstructor
+//    public static class Dataset {
+//        @JsonProperty("request_body")
+//        private Map<String, Object> requestBody;
+//
+//        @JsonProperty("desired_outcome")
+//        private Map<String, Object> desiredOutcome;
+//
+//        @JsonProperty("desired_status")
+//        private String desiredStatus;
+//
+//        public Map<String, Object> getRequestBody() {
+//            return requestBody;
+//        }
+//
+//        public void setRequestBody(Map<String, Object> requestBody) {
+//            this.requestBody = requestBody;
+//        }
+//
+//        public Map<String, Object> getDesiredOutcome() {
+//            return desiredOutcome;
+//        }
+//
+//        public void setDesiredOutcome(Map<String, Object> desiredOutcome) {
+//            this.desiredOutcome = desiredOutcome;
+//        }
+//
+//        public String getDesiredStatus() {
+//            return desiredStatus;
+//        }
+//
+//        public void setDesiredStatus(String desiredStatus) {
+//            this.desiredStatus = desiredStatus;
+//        }
+//
+//        @Override
+//        public String toString() {
+//            return "Dataset{" +
+//                    "requestBody=" + requestBody +
+//                    ", desiredOutcome=" + desiredOutcome +
+//                    ", desiredStatus='" + desiredStatus + '\'' +
+//                    '}';
+//        }
+//
+//
+//    }
+//}
+//

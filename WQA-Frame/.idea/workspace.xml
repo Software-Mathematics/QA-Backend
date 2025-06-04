@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="027483c9-fbbd-4efe-bc19-946a302c0252" name="Changes" comment="refactored code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/SpringapiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/SpringapiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/consumer/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/consumer/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/controller/UIControllerClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/controller/UIControllerClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/util/DynamicWebAutomation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/softwaremathematics/util/DynamicWebAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;suryanshjaryal&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://suryanshjaryal30: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@github.com/Software-Mathematics/WQA-Framework.git&quot;,
+    &quot;accountId&quot;: &quot;448bb860-187e-4789-bdc4-de0414399e77&quot;
+  }
+}</component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2tnSYZTIOMc9WQWdY7xOOSiqi1J" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.SpringapiApplication.executor": "Run",
+    "Application.WqaFrameworkApplication.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "refactor-branch",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/91821/Desktop/springboot/WQA-Framework/extension",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\91821\Desktop\springboot\WQA-Framework\extension" />
+      <recent name="C:\Users\91821\Desktop\springboot\WQA-Framework" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Documents\WQA-Framework" />
+      <recent name="C:\Documents\WQA-Framework\extension" />
+      <recent name="C:\Users\91821\Desktop\springboot\WQA-Framework\WQA-Framework" />
+      <recent name="C:\Users\91821\Desktop\springboot\WQA-Framework" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="SpringapiApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.softwaremathematics.SpringapiApplication" />
+      <module name="WQA-Framework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.softwaremathematics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpringapiApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="027483c9-fbbd-4efe-bc19-946a302c0252" name="Changes" comment="" />
+      <created>1740986393376</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1740986393376</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <option name="closed" value="true" />
+      <created>1740987296221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1740987296221</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first">
+      <option name="closed" value="true" />
+      <created>1742632048174</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742632048175</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;first&quot;&#10;&#10;This reverts commit b9098f6d">
+      <option name="closed" value="true" />
+      <created>1742632293607</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1742632293607</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Revert &quot;Updated author details&quot;&#10;&#10;This reverts commit 8b6e17f8">
+      <option name="closed" value="true" />
+      <created>1742632442065</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1742632442065</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added multi browser support">
+      <option name="closed" value="true" />
+      <created>1745399034661</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745399034661</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added multi browser support">
+      <option name="closed" value="true" />
+      <created>1745408217130</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1745408217130</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added multi browser support">
+      <option name="closed" value="true" />
+      <created>1745410700608</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745410700608</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added multi browser support">
+      <option name="closed" value="true" />
+      <created>1745410856625</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1745410856625</updated>
+    </task>
+    <task id="LOCAL-00009" summary="refactored code">
+      <option name="closed" value="true" />
+      <created>1745560177555</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1745560177555</updated>
+    </task>
+    <task id="LOCAL-00010" summary="refactored code">
+      <option name="closed" value="true" />
+      <created>1745572297685</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1745572297685</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="Revert &quot;first&quot;&#10;&#10;This reverts commit b9098f6d" />
+    <MESSAGE value="Revert &quot;Updated author details&quot;&#10;&#10;This reverts commit 8b6e17f8" />
+    <MESSAGE value="Added multi browser support" />
+    <MESSAGE value="refactored code" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactored code" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softwaremathematics/consumer/Consumer.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softwaremathematics/consumer/Consumer.java</url>
+          <line>116</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softwaremathematics/util/DynamicWebAutomation.java</url>
+          <line>273</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softwaremathematics/consumer/Consumer.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softwaremathematics/util/DynamicWebAutomation.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/softwaremathematics/util/DynamicWebAutomation.java</url>
+          <line>401</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="40" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
