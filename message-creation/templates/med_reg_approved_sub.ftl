@@ -1,0 +1,1 @@
+Your registration has benn approved!

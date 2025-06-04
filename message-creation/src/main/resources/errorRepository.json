@@ -1,0 +1,38 @@
+ [
+   {
+     "errorCode": "K001",
+     "errorMessage": "Data not found !!"
+   },
+	 {
+	 "errorCode": "K002",
+	 "errorMessage": "Error Occurred while executing the OtpsRecordController method !!"
+ 	},
+	 {
+	 "errorCode": "K003",
+	 "errorMessage": "The Problem of redundancy in Database !!"
+ 	},
+	 {
+	 "errorCode": "K004",
+	 "errorMessage": "Data is already exist with given 'profileId' !!"
+ 	},{
+	 "errorCode": "K005",
+	 "errorMessage": "Id is mandatory !!"
+ },{
+	 "errorCode": "K006",
+	 "errorMessage": "OTP is not valid !!"
+ },{
+	 "errorCode": "K007",
+	 "errorMessage": "OTP has expired, Please resend OTP again !!"
+ },{
+	 "errorCode": "K008",
+	 "errorMessage": "OTP is already verified, Please Login !!"
+ }
+ ,{
+	 "errorCode": "K009",
+	 "errorMessage": "Something went wrong..."
+ }
+ ,{
+	 "errorCode": "K010",
+	 "errorMessage": "Invalid User !!"
+ }
+ ]
