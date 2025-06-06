@@ -1,13 +1,3 @@
-#config:
-#  multitenant:
-#    mongo:
-#      properties:
-#        - tenant: default
-#          enabled: true
-#          properties:
-#            uri: mongodb://vishnuji:7Wt-QfBpl_VIpeKbf@185.207.250.107:45130,89.117.151.178:45130,45.130.104.65:45130/jaina
-#            database: jaina
-
 
 config:
   multitenant:
