@@ -1,12 +1,3 @@
-#config:
-#  multitenant:
-#    mongo:
-#      properties:
-#        - tenant: default
-#          enabled: true
-#          properties:
-#            uri: mongodb://89.117.151.178:32021/?directConnection=true/qa
-#            database: qa
 
 config:
   multitenant:
