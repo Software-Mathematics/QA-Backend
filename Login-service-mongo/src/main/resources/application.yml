@@ -1,18 +1,3 @@
-#config:
-#  multitenant:
-#    mongo:
-#      properties:
-#        - tenant: default
-#          enabled: true
-#          properties:
-#            uri: mongodb://178.18.255.221:32021/?directConnection=true/jaina
-#            database: jaina
-#        - tenant: JAT20240418
-#          enabled: true
-#          properties:
-#            uri: mongodb://178.18.255.221:32021/?directConnection=true/jaina
-#            database: jaina
-#
 
 config:
   multitenant:
