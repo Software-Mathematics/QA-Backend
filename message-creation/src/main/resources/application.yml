@@ -1,13 +1,3 @@
-#config:
-#  multitenant:
-#    mongo:
-#      properties:
-#        - tenant: default
-#          enabled: true
-#          properties:
-#            uri: mongodb://devops:devops%40123@185.207.250.107:27017,5.189.171.116:27017,45.130.104.65:27017/medharva
-#            database: medharva
-#
 
 config:
   multitenant:
